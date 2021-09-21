@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\RMPQAapi\RMPQAapi.Data\bin\Debug\net5.0\RMPQAapi.Data.deps.json
+C:\Users\User\source\repos\RMPQAapi\RMPQAapi.Data\bin\Debug\net5.0\RMPQAapi.Data.dll
+C:\Users\User\source\repos\RMPQAapi\RMPQAapi.Data\bin\Debug\net5.0\ref\RMPQAapi.Data.dll
+C:\Users\User\source\repos\RMPQAapi\RMPQAapi.Data\bin\Debug\net5.0\RMPQAapi.Data.pdb
+C:\Users\User\source\repos\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data.dll
+C:\Users\User\source\repos\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\ref\RMPQAapi.Data.dll
+C:\Users\User\source\repos\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data.pdb

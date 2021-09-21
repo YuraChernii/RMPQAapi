@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RMPQAapi.Domain.Services
+namespace RMPQAapi.Data.Entities.Interfaces
 {
-    class IProductService
+    public interface IEntity
     {
     }
 }

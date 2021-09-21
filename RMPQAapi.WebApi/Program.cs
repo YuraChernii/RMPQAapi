@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
@@ -16,11 +17,24 @@ namespace RMPQAapi.WebApi
             CreateHostBuilder(args).Build().Run();
         }
 
-        public static IHostBuilder CreateHostBuilder(string[] args) =>
-            Host.CreateDefaultBuilder(args)
-                .ConfigureWebHostDefaults(webBuilder =>
+        public static IWebHostBuilder CreateHostBuilder(string[] args) =>
+            WebHost.CreateDefaultBuilder(args)
+                .UseStartup<Startup>()
+                .ConfigureLogging((hostingContext, logging) =>
                 {
-                    webBuilder.UseStartup<Startup>();
+                    var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
+                    var isDevelopment = environment == Environments.Development;
+                    //if (isDevelopment)
+                    //{
+                        logging.AddConsole();
+                        logging.AddFilter(string.Empty, LogLevel.Information);
+                    //}
+                    //else
+                    //{
+                    //    //logging.AddApplicationInsights(hostingContext.Configuration["iKeyForProduction"]);
+                    //    //logging.AddFilter<Microsoft.Extensions.Logging.ApplicationInsights.ApplicationInsightsLoggerProvider>(
+                    //    //    string.Empty, LogLevel.Warning);
+                    //}
                 });
     }
 }
