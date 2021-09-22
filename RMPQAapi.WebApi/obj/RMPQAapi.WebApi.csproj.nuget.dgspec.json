@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.WebApi\\RMPQAapi.WebApi.csproj": {}
+    "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.WebApi\\RMPQAapi.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.Data\\RMPQAapi.Data.csproj": {
+    "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.Data\\RMPQAapi.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.Data\\RMPQAapi.Data.csproj",
+        "projectUniqueName": "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.Data\\RMPQAapi.Data.csproj",
         "projectName": "RMPQAapi.Data",
-        "projectPath": "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.Data\\RMPQAapi.Data.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.Data\\obj\\",
+        "projectPath": "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.Data\\RMPQAapi.Data.csproj",
+        "packagesPath": "C:\\Users\\Ivan IT\\.nuget\\packages\\",
+        "outputPath": "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Ivan IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -72,18 +78,24 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.Domain\\RMPQAapi.Domain.csproj": {
+    "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.Domain\\RMPQAapi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.Domain\\RMPQAapi.Domain.csproj",
+        "projectUniqueName": "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.Domain\\RMPQAapi.Domain.csproj",
         "projectName": "RMPQAapi.Domain",
-        "projectPath": "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.Domain\\RMPQAapi.Domain.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.Domain\\obj\\",
+        "projectPath": "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.Domain\\RMPQAapi.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ivan IT\\.nuget\\packages\\",
+        "outputPath": "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Ivan IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -96,8 +108,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.Data\\RMPQAapi.Data.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.Data\\RMPQAapi.Data.csproj"
+              "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.Data\\RMPQAapi.Data.csproj": {
+                "projectPath": "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.Data\\RMPQAapi.Data.csproj"
               }
             }
           }
@@ -144,18 +156,24 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.WebApi\\RMPQAapi.WebApi.csproj": {
+    "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.WebApi\\RMPQAapi.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.WebApi\\RMPQAapi.WebApi.csproj",
+        "projectUniqueName": "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.WebApi\\RMPQAapi.WebApi.csproj",
         "projectName": "RMPQAapi.WebApi",
-        "projectPath": "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.WebApi\\RMPQAapi.WebApi.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.WebApi\\obj\\",
+        "projectPath": "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.WebApi\\RMPQAapi.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Ivan IT\\.nuget\\packages\\",
+        "outputPath": "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.WebApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Ivan IT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -168,11 +186,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.Data\\RMPQAapi.Data.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.Data\\RMPQAapi.Data.csproj"
+              "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.Data\\RMPQAapi.Data.csproj": {
+                "projectPath": "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.Data\\RMPQAapi.Data.csproj"
               },
-              "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.Domain\\RMPQAapi.Domain.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\RMPQAapi\\RMPQAapi.Domain\\RMPQAapi.Domain.csproj"
+              "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.Domain\\RMPQAapi.Domain.csproj": {
+                "projectPath": "D:\\PersonalIM\\Raushert\\RMPQA\\Code\\RMPQAapi\\RMPQAapi\\RMPQAapi.Domain\\RMPQAapi.Domain.csproj"
               }
             }
           }

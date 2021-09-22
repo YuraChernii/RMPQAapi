@@ -10,3 +10,15 @@ C:\Users\User\source\repos\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data
 C:\Users\User\source\repos\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data.dll
 C:\Users\User\source\repos\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\ref\RMPQAapi.Data.dll
 C:\Users\User\source\repos\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data.pdb
+D:\PersonalIM\Raushert\RMPQA\Code\RMPQAapi\RMPQAapi\RMPQAapi.Data\bin\Debug\net5.0\RMPQAapi.Data.deps.json
+D:\PersonalIM\Raushert\RMPQA\Code\RMPQAapi\RMPQAapi\RMPQAapi.Data\bin\Debug\net5.0\RMPQAapi.Data.dll
+D:\PersonalIM\Raushert\RMPQA\Code\RMPQAapi\RMPQAapi\RMPQAapi.Data\bin\Debug\net5.0\ref\RMPQAapi.Data.dll
+D:\PersonalIM\Raushert\RMPQA\Code\RMPQAapi\RMPQAapi\RMPQAapi.Data\bin\Debug\net5.0\RMPQAapi.Data.pdb
+D:\PersonalIM\Raushert\RMPQA\Code\RMPQAapi\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data.csproj.AssemblyReference.cache
+D:\PersonalIM\Raushert\RMPQA\Code\RMPQAapi\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalIM\Raushert\RMPQA\Code\RMPQAapi\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data.AssemblyInfoInputs.cache
+D:\PersonalIM\Raushert\RMPQA\Code\RMPQAapi\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data.AssemblyInfo.cs
+D:\PersonalIM\Raushert\RMPQA\Code\RMPQAapi\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data.csproj.CoreCompileInputs.cache
+D:\PersonalIM\Raushert\RMPQA\Code\RMPQAapi\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data.dll
+D:\PersonalIM\Raushert\RMPQA\Code\RMPQAapi\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\ref\RMPQAapi.Data.dll
+D:\PersonalIM\Raushert\RMPQA\Code\RMPQAapi\RMPQAapi\RMPQAapi.Data\obj\Debug\net5.0\RMPQAapi.Data.pdb

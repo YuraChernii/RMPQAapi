@@ -36,7 +36,7 @@ namespace RMPQAapi.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            
+            services.AddCorsSettings();
             services.AddDbContext(Configuration);
             services.AddServices(Configuration);
             services.AddRazorPages();
@@ -58,7 +58,7 @@ namespace RMPQAapi.WebApi
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
+            app.UseCors("CorsPolicy");
             app.UseRouting();
             app.UseEndpoints(endpoints =>
             {
